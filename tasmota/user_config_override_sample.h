@@ -88,6 +88,10 @@ Examples :
 */
 
 
+#define USE_SHIFT595
+#define USE_RTC_CHIPS               
+#define USE_DS3231                 
+#define USE_RTC_ADDR    0x51
 
 
 
